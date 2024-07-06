@@ -1,0 +1,19 @@
+{
+  "name": "com.xrtoolkit.recttransformeditor",
+  "version": "1.0.0",
+  "displayName": "RecTransformEditor",
+  "description": "RecTransform的编辑器扩展，主要功能：1.根据UI原始比例重设大小；2.拷贝UI路径",
+  "unity": "2022.3",
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "RecTransform",
+    "Editor"
+  ],
+  "author": {
+    "name": "LEI",
+    "email": "yuhonglei86@gmail.com",
+    "url": ""
+  }
+}
